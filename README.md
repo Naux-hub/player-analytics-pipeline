@@ -27,5 +27,5 @@ This project demonstrates a full-scale **ELT (Extract, Load, Transform) pipeline
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/player-analytics-pipeline.git](https://github.com/YOUR_USERNAME/player-analytics-pipeline.git)
+   git clone [https://github.com/YOUR_USERNAME/player-analytics-pipeline.git](https://github.com/Naux-hub/player-analytics-pipeline.git)
    cd player-analytics-pipeline
